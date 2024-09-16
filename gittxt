@@ -1,7 +1,7 @@
 comprehensive guide for using Git! Here's a bit more detail to help you out:
 
 ### Downloading Git 
-You can download Git for macOS from the official Git website [here](https://git-scm.com/downloads)⁷. There are several installation options, including Homebrew, MacPorts, and a binary installer.
+You can download Gitfrom the official Git website [here](https://git-scm.com/downloads)⁷. There are several installation options, including Homebrew, MacPorts, and a binary installer.
 
 ### Basic Git Configuration
 To set up your Git environment, you can use the following commands:
@@ -13,7 +13,7 @@ git config --global user.name "MRM"
 git config --global user.email "M@m.com"
 
 # Set the default branch name to 'main'
-git config --global init.defaultBranch main
+git config --global init.default Branch main
 
 # Display help for the config command
 git config -h
@@ -96,7 +96,6 @@ A typical Git workflow involves:
 4. **Pushing** changes to the remote repository.
 5. **Creating** a pull request for code review and merging.
 
-Feel free to ask if you need more details on any specific command or concept!
 
 Source: Conversation with Copilot, 2024-09-13
 (1) Git - Downloads. https://git-scm.com/downloads.
