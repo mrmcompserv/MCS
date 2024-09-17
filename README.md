@@ -6,12 +6,12 @@ Takes number inputed from the keypad, stores them and recalls them.
 
 68HC705C8 
    PIC 8 bit MicroController w Programmer(PROG05)
-   8 KB EPROM for program storage
-   304 bytes of RAM for data storage
-   16 bit timer system
-   I/O ports
-   On-chip oscillator
-   Watchdog timer for crash reset
+   8 KB EPROM for program storage,
+   304 bytes of RAM for data storage,
+   16 bit timer system,
+   I/O ports,
+   On-chip oscillator,
+   Watchdog timer for crash reset,
    keyboard scanning logic
    
    
