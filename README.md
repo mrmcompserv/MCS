@@ -21,7 +21,7 @@ MC34010
     graphic processor
 
 
-Initialization routine(Assembler code PDF: p1 of 10) prepares the memory.   80 bytes reserved that provide 10  locations w 8 numbers.    Back in the 90s, phone numbers could only be 8 digits. LOL 😆 
+Initialization routine(Assembler code PDF: p1 of 10) prepares the memory.   80 bytes reserved that provide 10  locations w 8 numbers.    Back in the 90s, most phone numbers were 8 digits memorized. LOL 😆 
 
 https://github.com/mrmcompserv/MCS/tree/main
 
