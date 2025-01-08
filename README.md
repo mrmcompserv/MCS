@@ -23,19 +23,10 @@ MC34010
 
 Initialization routine(Assembler code PDF: p1 of 10) prepares the memory.   80 bytes reserved that provide 10  locations w 8 numbers.    Back in the 90s, most phone numbers were 8 digits memorized. LOL 😆 
 
-https://github.com/mrmcompserv/MCS/tree/main
 
 Flow chart that helps explain the code is in PDF -  Dialer telephone cct p3 of 3.
 
-https://github.com/mrmcompserv/MCS/tree/main
-
-Assembler code PDF describes how the code works. 
-
-https://github.com/mrmcompserv/MCS/tree/main
-
-
-https://github.com/mrmcompserv/MCS/tree/main
-
+Assembler code PDF describes the code 
 
 Several points of light:
 
